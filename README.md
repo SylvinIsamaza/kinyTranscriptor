@@ -22,8 +22,8 @@ This project implements a Kinyarwanda Voice Assistant as part of the Intelligent
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone https://github.com/SylvinIsamaza/kinyTranscriptor
+   cd kinyTranscriptor
    ```
 
 2. **Install Dependencies**:
