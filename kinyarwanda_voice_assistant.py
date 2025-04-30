@@ -7,7 +7,6 @@ from transformers import WhisperProcessor, WhisperForConditionalGeneration, Vits
 from huggingface_hub import login
 from dotenv import load_dotenv
 
-# Disable TensorFlow warnings and errors
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
